@@ -31,7 +31,5 @@
 
 <h2>Stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dani32002&show_icons=true&locale=en" alt="dani32002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dani32002&" alt="dani32002" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dani32002&show_icons=true&locale=en&theme=merko" alt="dani32002" /></p>
 
