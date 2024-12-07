@@ -6,8 +6,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dani32002&show_icons=true&locale=en&theme=merko" alt="dani32002" /></p>
 
-<br/>
-
 <h2>Some technologies I've worked with:</h2>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
