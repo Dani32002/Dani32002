@@ -2,6 +2,8 @@
 
 <p align="center">I am Daniel, a passionate software engineering student driven by love for what I do. The search for knowledge and diligence define my approach to every project I encounter. I am constantly seeking ways to improve and thrive on pushing the limits of my skills and knowledge. Exploring new technologies is a never-ending adventure that fuels my curiosity and broadens my horizons. I am currently interested in software development, security and networks, however, standing out mainly in software development with multiple skills gathered from being an investigation and teaching assistant. Within my skill set I can highlight my ability for back-end and front-end design and development with multiple frameworks such as Nest, Spring, React and Angular.</p>
 
+<h2>Some technologies I've worked with:</h2>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -27,8 +29,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![DataPrep](https://img.shields.io/badge/DataPrep-2C3E50?style=for-the-badge&logo=databricks&logoColor=white)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dani32002&show_icons=true&locale=en&layout=compact" alt="dani32002" /></p>
+<h2>Stats</h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dani32002&show_icons=true&locale=en" alt="dani32002" /></p>
 
