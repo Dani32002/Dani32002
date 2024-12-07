@@ -29,7 +29,6 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![DataPrep](https://img.shields.io/badge/DataPrep-2C3E50?style=for-the-badge&logo=databricks&logoColor=white)
 
-<h2>Stats</h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dani32002&show_icons=true&locale=en&theme=merko" alt="dani32002" /></p>
 
