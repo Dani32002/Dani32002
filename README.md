@@ -2,7 +2,11 @@
 
 <p align="center">I am Daniel, a passionate software engineering student driven by love for what I do. The search for knowledge and diligence define my approach to every project I encounter. I am constantly seeking ways to improve and thrive on pushing the limits of my skills and knowledge. Exploring new technologies is a never-ending adventure that fuels my curiosity and broadens my horizons. I am currently interested in software development, security and networks, however, standing out mainly in software development with multiple skills gathered from being an investigation and teaching assistant. Within my skill set I can highlight my ability for back-end and front-end design and development with multiple frameworks such as Nest, Spring, React and Angular.</p>
 
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dani32002&show_icons=true&locale=en&theme=merko" alt="dani32002" /></p>
+
+<br/>
 
 <h2>Some technologies I've worked with:</h2>
 
